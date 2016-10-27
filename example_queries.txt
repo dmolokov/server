@@ -1,0 +1,6 @@
+http://localhost:3000/?method=register&item=first&quantity=3
+http://localhost:3000/?method=register&item=second&quantity=4
+http://localhost:3000/?method=register&item=third&quantity=6
+http://localhost:3000/?method=add&position_id=3&quantity=11
+http://localhost:3000/?method=delete&position_id=2&quantity=2
+http://localhost:3000/?method=list
